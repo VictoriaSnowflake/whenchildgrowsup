@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-09-24T12:39:33+03:00">
+	<shop>
+		<name/>
+		<company/>
+		<platform>1С-Битрикс: Управление сайтом</platform>
+		<version>22.600.300</version>
+		<url>https://feed.xcom.ru</url>
+		<currencies>
+			<currency id="RUB" rate="1.00"/>
+		</currencies>
+		<categories>
+			<category id="1000000">Конденсаторы</category>
+			<category id="2000000">Микросхемы</category>
+			<category id="3000000">Резисторы</category>
+			<category id="1100000" parentId="1000000">Керамические</category>
+			<category id="1110000" parentId="1100000">Высоковольтные</category>
+			<category id="1120000" parentId="1100000">Дисковые</category>
+			<category id="1130000" parentId="1100000">SMD</category>
+			<category id="1131000" parentId="1130000">Размер 0603</category>
+			<category id="1131100" parentId="1131000">Allegro</category>
+			<category id="1131200" parentId="1131000">AlphaиOmega</category>
+			<category id="1132000" parentId="1130000">Размер 0805</category>
+			<category id="1132100" parentId="1132000">Murata</category>
+			<category id="1132200" parentId="1132000">Тайвань</category>
+			<category id="1200000" parentId="1000000">Пленочные</category>
+			<category id="1300000" parentId="1000000">Электролитические</category>
+			<category id="1310000" parentId="1300000">SMD</category>
+			<category id="1320000" parentId="1300000">Полимерные</category>
+			<category id="1330000" parentId="1300000">Tанталовые</category>
+			<category id="2100000" parentId="2000000">Драйверы</category>
+			<category id="2110000" parentId="2100000">CAN</category>
+			<category id="2120000" parentId="2100000">RS-232</category>
+			<category id="2130000" parentId="2100000">RS-422, RS-485</category>
+			<category id="2200000" parentId="2000000">Интерфейсы</category>
+			<category id="2300000" parentId="2000000">Кодеки</category>
+			<category id="2400000" parentId="2000000">Компараторы</category>
+			<category id="2500000" parentId="2000000">Логические</category>
+			<category id="2600000" parentId="2000000">Микросхемы</category>
+			<category id="2610000" parentId="2600000">для импульсных источников питания</category>
+			<category id="2611000" parentId="2610000">SMD</category>
+			<category id="2611100" parentId="2611000">LCC</category>
+			<category id="2611200" parentId="2611000">PLCC</category>
+			<category id="2612000" parentId="2610000">DIP</category>
+			<category id="2620000" parentId="2600000">для обработки видео изображений</category>
+			<category id="2630000" parentId="2600000">для телекоммуникации</category>
+			<category id="2640000" parentId="2600000">для телефонии</category>
+		</categories>
+		<offers>
+		    <offer id="7260644" group_id="396016">
+                <url>https://www.xcom-shop.ru/hynix_original_hma84gr7afr4n-vk_726060.html</url>
+                <price>9135</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1000000</categoryId>
+                <market_category>Микросхемы</market_category>
+                <picture>https://static.chipdip.ru/lib/images/import_ic/header/soic.gif</picture>
+                <vendor>Hynix original</vendor>
+                <name>Конденсатор из корневой категории</name>
+                <barcode>2603312978449,5704174167655</barcode>
+                <model>HMA84GR7AFR4N-VK</model>
+                <vendorCode>HMA84GR7AFR4N-VK</vendorCode>
+                <param name="Коротко о товаре">PC4-21300, 2666MHz, CL19, 1.2V, ECC Registered 2Rx4</param>
+            </offer>
+			<offer id="726060" group_id="396016">
+				<url>https://www.xcom-shop.ru/hynix_original_hma84gr7afr4n-vk_726060.html</url>
+				<price>9135</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2000000</categoryId>
+				<market_category>Модуль памяти DDR4 32GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/d3/4W1lzaPYPj_750.jpg</picture>
+				<vendor>Hynix original</vendor>
+				<name>Микросхема из корневой категории</name>
+				<barcode>2603312978449,5704174167655</barcode>
+				<model>HMA84GR7AFR4N-VK</model>
+				<vendorCode>HMA84GR7AFR4N-VK</vendorCode>
+				<param name="Коротко о товаре">PC4-21300, 2666MHz, CL19, 1.2V, ECC Registered 2Rx4</param>
+			</offer>
+			<offer id="648852" group_id="461030">
+				<url>https://www.xcom-shop.ru/transcend_ts32gsdhc10m_648852.html</url>
+				<price>13</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3000000</categoryId>
+				<market_category>Промышленная карта памяти SDHC 32Gb</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/a6/kfJ2nJXK2H_750.jpg</picture>
+				<vendor>Transcend</vendor>
+				<name>Резистор из корневой категории</name>
+				<description>Карта памяти для использования в промышленных приложениях, предназначенных для решения критически важных задач.</description>
+				<model>TS32GSDHC10M</model>
+				<vendorCode>TS32GSDHC10M</vendorCode>
+				<param name="Коротко о товаре">SDHC Class 10 MLC</param>
+			</offer>
+			<offer id="633049" group_id="125113">
+				<url>https://www.xcom-shop.ru/brother_hl-l8260cdw_633049.html</url>
+				<price>599</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1100000</categoryId>
+				<market_category>Принтер лазерный цветной</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/VMRJ0o9XXH_750.jpg</picture>
+				<vendor>Brother</vendor>
+				<name>Принтер лазерный цветной Brother HL-L8260CDW A4, 31 стр/мин, 256Мб, дуплекс, GigaLAN, WiFi, USB (старт.картриджи 3000/1800стр)</name>
+				<description>Беспроводной цветной лазерный принтер для быстрой и удобной печати. Модель имеет широкий наборфункций обеспечения безопасности и поддержки мобильной печати.</description>
+				<barcode>4977766774161</barcode>
+				<model>HL-L8260CDW</model>
+				<vendorCode>HLL8260CDWR1</vendorCode>
+				<param name="Коротко о товаре">A4, 31 стр/мин, 256Мб, дуплекс, GigaLAN, WiFi, USB (старт.картриджи 3000/1800стр)</param>
+			</offer>
+			<offer id="604430" group_id="614322">
+				<url>https://www.xcom-shop.ru/kyocera_m4132idn_604430.html</url>
+				<price>185843</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1110000</categoryId>
+				<market_category>МФУ лазерное черно-белое</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/d2/JkLwe2uu21_750.jpg</picture>
+				<vendor>Kyocera</vendor>
+				<name>МФУ лазерное черно-белое Kyocera M4132idn 1102P13NL0 A3, 32/17 ppm A4/A3, 1 Gb, USB 2.0, Network,дуплекс, автоподатчик, пусковой комплект</name>
+				<description>Монохромное многофункциональное устройство обладает расширенным функционалом. Простой в использовании цветной сенсорный дисплей панели управления с интуитивно понятной навигацией.</description>
+				<model>M4132idn</model>
+				<vendorCode>1102P13NL0</vendorCode>
+				<param name="Коротко о товаре">A3, 32/17 ppm A4/A3, 1 Gb, USB 2.0, Network,дуплекс, автоподатчик, пусковой комплект</param>
+			</offer>
+			<offer id="685076" group_id="325899">
+				<url>https://www.xcom-shop.ru/samsung_mz-v7s500bw_685076.html</url>
+				<price>7486</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1120000</categoryId>
+				<market_category>Накопитель SSD M.2 2280</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/88/0Q2p2rBjBI_750.jpg</picture>
+				<vendor>Samsung</vendor>
+				<name>Накопитель SSD M.2 2280 Samsung MZ-V7S500BW 970 EVO Plus 500GB MLC PCIe Gen 3.0 x4 NVMe 3500/3200MB/s 480K/550K IOPS MTBF 1.5M</name>
+				<description>Твердотельный PCIe NVMe-накопитель Samsung имеет объем 500 Гб и выполнен в форм-факторе M.2. Данный накопитель разработан на основе технологии MLC V-NAND и подходит для высокоскоростных вычислительных систем.</description>
+				<barcode>0887276303741</barcode>
+				<model>MZ-V7S500BW</model>
+				<vendorCode>MZ-V7S500BW</vendorCode>
+				<param name="Коротко о товаре">970 EVO Plus 500GB MLC PCIe Gen 3.0 x4 NVMe 3500/3200MB/s 480K/550K IOPS MTBF 1.5M</param>
+			</offer>
+			<offer id="234771" group_id="20042">
+				<url>https://www.xcom-shop.ru/oki_44469706_234771.html</url>
+				<price>12777</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Картридж</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/84/LlIBSoLAFq_750.jpg</picture>
+				<vendor>OKI</vendor>
+				<name>Картридж OKI 44469706 голубой для C310/C330/C510/C530/MC351/352/MC361/362/MC561/562 (2000 страниц) (44469716)</name>
+				<barcode>5031713047988,5031713048039</barcode>
+				<model>44469706</model>
+				<vendorCode>44469706</vendorCode>
+				<param name="Коротко о товаре">голубой для C310/C330/C510/C530/MC351/352/MC361/362/MC561/562 (2000 страниц) (44469716)</param>
+			</offer>
+			<offer id="542133" group_id="556545">
+				<url>https://www.xcom-shop.ru/nvp_nv-q2612x_542133.html</url>
+				<price>498</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1131000</categoryId>
+				<market_category>Картридж</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/03/THPeBzpAME_750.jpg</picture>
+				<vendor>NVP</vendor>
+				<name>Картридж NVP NV-Q2612X для LJ 1010/1012/1015/1020/1022/3015/3020/3030 (3500k)</name>
+				<barcode>4620747110945</barcode>
+				<model>NV-Q2612X</model>
+				<vendorCode>NV-Q2612X</vendorCode>
+				<param name="Коротко о товаре">для LJ 1010/1012/1015/1020/1022/3015/3020/3030 (3500k)</param>
+			</offer>
+			<offer id="285886" group_id="83696">
+				<url>https://www.xcom-shop.ru/kyocera_fs-1125mfp_285886.html</url>
+				<price>52430</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1131100</categoryId>
+				<market_category>МФУ лазерное черно-белое</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/e3/R8pC2jcB9V_750.jpg</picture>
+				<vendor>Kyocera</vendor>
+				<name>МФУ лазерное черно-белое Kyocera FS-1125MFP 1102M73RU2 А4, принтер/копир/цв.сканер/факс,ADF, 25 ppm, 1200 dpi, 64 Mb, дуплекс, Fast Ethernet, USB 2.0</name>
+				<barcode>0632983053287,2001001022259</barcode>
+				<model>FS-1125MFP</model>
+				<vendorCode>1102M73RU2</vendorCode>
+				<param name="Коротко о товаре">А4, принтер/копир/цв.сканер/факс,ADF, 25 ppm, 1200 dpi, 64 Mb, дуплекс, Fast Ethernet, USB 2.0 (1102M73RUV)</param>
+			</offer>
+			<offer id="454006" group_id="516210">
+				<url>https://www.xcom-shop.ru/kyocera_dv-160_454006.html</url>
+				<price>9900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1131200</categoryId>
+				<market_category>Блок проявки</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/ac/6KRw3R551e_750.jpg</picture>
+				<vendor>Kyocera</vendor>
+				<name>Блок проявки Kyocera DV-160 302LY93010 FS-1120D/1120DN/ECOSYS P2035d/P2035dn</name>
+				<barcode>5711045528828</barcode>
+				<model>DV-160</model>
+				<vendorCode>302LY93010</vendorCode>
+				<param name="Коротко о товаре">FS-1120D/1120DN/ECOSYS P2035d/P2035dn</param>
+			</offer>
+			<offer id="665332" group_id="665095">
+				<url>https://www.xcom-shop.ru/onkron_m5_665332.html</url>
+				<price>4110</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1132000</categoryId>
+				<market_category>Кронштейн настенный</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/5f/2aNvdJIYIK_750.jpg</picture>
+				<vendor>ONKRON</vendor>
+				<name>Кронштейн настенный ONKRON M5 32-60&quot; макс. 400*400 наклон -2°/+10° поворот 140º, макс. нагрузка 36,4кг от стены 42-452мм, белый</name>
+				<description>Для поворота телевизора Вам не нужно использовать дополнительных приспособлений или прилагать усилия. Вы сможете повернуть ТВ и изменить расстояние от стены лёгким движением руки, при этом телевизор зафиксируется в настроенном положении. Эта функция придется, кстати, как для небольших помещений, так и для большого пространства.</description>
+				<barcode>4262392441281,4262392441298,4603728440255</barcode>
+				<model>M5</model>
+				<vendorCode>ONKRON M5 WHITE</vendorCode>
+				<param name="Коротко о товаре">32-60&quot; макс. 400*400 наклон -2°/+10° поворот 140º, макс. нагрузка 36,4кг от стены 42-452мм, белый</param>
+			</offer>
+			<offer id="665354" group_id="665095">
+				<url>https://www.xcom-shop.ru/onkron_ts1881_665354.html</url>
+				<price>24591</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1132000</categoryId>
+				<market_category>Стойка мобильная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/5HprIMeouz_750.jpg</picture>
+				<vendor>ONKRON</vendor>
+				<name>Стойка мобильная ONKRON TS1881 на 1 ТВ, 50-86&quot; от 200х200 до 800х500, портретная/альбомная ориентация, макс. нагр 90.9кг, высота 1050-1650мм, черный</name>
+				<description>Мобильная стойка для телевизоров выполнена в черном цвете. Регулировка высоты телевизора осуществляется легко и быстро с помощью специальных кнопок с пружиной и не требует дополнительных приспособлений. Надёжные колесики с системой фиксации. 4 манёвренных колеса позволяют перевести стойку в любое место в помещении, а встроенные тормоза в каждом из них смогут надёжно её зафиксировать и избежать случайного перемещения.</description>
+				<barcode>4262392440260,4603728440125,4603728441023</barcode>
+				<model>TS1881</model>
+				<vendorCode>TS1881 BLACK</vendorCode>
+				<param name="Коротко о товаре">на 1 ТВ, 50-86&quot; от 200х200 до 800х500, портретная/альбомная ориентация, макс. нагр 90.9кг, высота 1050-1650мм, черный</param>
+			</offer>
+			<offer id="804194" group_id="205820">
+				<url>https://www.xcom-shop.ru/d-link_dir-815srus1a_804194.html</url>
+				<price>3532</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1132000</categoryId>
+				<market_category>Маршрутизатор</market_category>
+				<picture>https://img.xcomdb.ru/pim/PNG/7a/jp0e0reYTn_750.jpg</picture>
+				<vendor>D-link</vendor>
+				<name>Маршрутизатор D-link DIR-815/SRU/S1A беспроводной двухдиапазонный AC1200 с поддержкой MU-MIMO</name>
+				<description>Маршрутизатор оснащен USB-портом для подключения USB-модема, при помощи которого Вы сможете оперативно подключаться к сети Интернет. Кроме того, Вы можете подключить к USB-порту маршрутизатора USB-накопитель, который будет использоваться в качестве сетевого диска, или принтер.</description>
+				<model>DIR-815/SRU/S1A</model>
+				<vendorCode>DIR-815/SRU/S1A</vendorCode>
+				<param name="Коротко о товаре">беспроводной двухдиапазонный AC1200 с поддержкой MU-MIMO</param>
+			</offer>
+			<offer id="584292" group_id="189499">
+				<url>https://www.xcom-shop.ru/silicon_power_blaze_b02_584292.html</url>
+				<price>1090</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1132100</categoryId>
+				<market_category>Накопитель USB 3.0 128GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/au3Tz9NsIO_750.jpg</picture>
+				<vendor>Silicon Power</vendor>
+				<name>Накопитель USB 3.0 128GB Silicon Power Blaze B02 SP128GBUF3B02V1K черный</name>
+				<description>Накопитель обладает компактными размерами с удобным отверстием в корпусе. Модель идеальна для каждодневного ношения с собой.</description>
+				<barcode>4712702646481</barcode>
+				<model>Blaze B02</model>
+				<vendorCode>SP128GBUF3B02V1K</vendorCode>
+				<param name="Коротко о товаре">черный</param>
+			</offer>
+			<offer id="611666" group_id="689389">
+				<url>https://www.xcom-shop.ru/wt_wt-2039a-grey_611666.html</url>
+				<price>8</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1132200</categoryId>
+				<market_category>Колпачок на коннектор</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/87/9lbHaZc7uf_750.jpg</picture>
+				<vendor>W&amp;T</vendor>
+				<name>Колпачок на коннектор W&amp;T WT-2039A-GREY изолирующий RJ-45, серый</name>
+				<description>Защитные колпачки предназначены для защиты кабеля от перегибов в месте крепления коннектора RJ45.</description>
+				<barcode>2009777732167</barcode>
+				<model>WT-2039A-GREY</model>
+				<vendorCode>WT-2039A-GREY</vendorCode>
+				<param name="Коротко о товаре">изолирующий RJ-45, серый</param>
+			</offer>
+			<offer id="369837" group_id="376369">
+				<url>https://www.xcom-shop.ru/csb_hrl_1234w_369837.html</url>
+				<price>4059</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1200000</categoryId>
+				<market_category>Батарея</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f4/0Aw7TMWpZQ_750.jpg</picture>
+				<vendor>CSB</vendor>
+				<name>Батарея CSB HRL 1234W 12В, 9Ач, 151х65х98.3мм (с увеличенным сроком службы 10 лет)</name>
+				<description>Разработаны для преимущественного применения в источниках бесперебойного питания, а также системах связи, медицинского оборудования и приборостроения. Увеличенные выходная мощность и срок службы. Дополнительно нормируется энергия 15-минутного разряда.</description>
+				<barcode>2009777785774,2012405475381,4627140863898</barcode>
+				<model>HRL 1234W</model>
+				<vendorCode>HRL 1234W</vendorCode>
+				<param name="Коротко о товаре">12В, 9Ач, 151х65х98.3мм (с увеличенным сроком службы 10 лет)</param>
+			</offer>
+			<offer id="581256" group_id="20042">
+				<url>https://www.xcom-shop.ru/oki_lp-761_581256.html</url>
+				<price>16500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1300000</categoryId>
+				<market_category>Картридж</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/13/GqL1zapSSd_750.jpg</picture>
+				<vendor>OKI</vendor>
+				<name>Картридж OKI LP-761 для OKI (Seiko) LP-1030/1040/1050/2050/2060/2070 (уп 2шт*450гр)</name>
+				<model>LP-761</model>
+				<vendorCode>LP-761</vendorCode>
+				<param name="Коротко о товаре">для OKI (Seiko) LP-1030/1040/1050/2050/2060/2070 (уп 2шт*450гр)</param>
+			</offer>
+			<offer id="700737" group_id="552084">
+				<url>https://www.xcom-shop.ru/rexant_14-0440_700737.html</url>
+				<price>114</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1320000</categoryId>
+				<market_category>Штекер</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/d4/uU6SpazFud_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Штекер Rexant 14-0440 стерео 3,5 мм с клеммой под винт</name>
+				<description>РАЗЪЁМ стерео штекер 3,5 с клеммной колодкой REXANT предназначен для оперативного подключения различного оборудования (наушники, микрофоны для записи речи,активные акустические системы, пасивные акустические системы, портативная техника), предаваемого аудиосигнал в режиме стерео, к устройствам прослушивания звуковой информации и различным гарнитурам.</description>
+				<barcode>4601004060623</barcode>
+				<model>14-0440</model>
+				<vendorCode>14-0440</vendorCode>
+				<param name="Коротко о товаре">стерео 3,5 мм с клеммой под винт</param>
+			</offer>
+			<offer id="644087" group_id="291822">
+				<url>https://www.xcom-shop.ru/cactus_cs-tk5270bk_644087.html</url>
+				<price>1400</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1330000</categoryId>
+				<market_category>Картридж черный</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/35/mjFHxAKwMY_750.jpg</picture>
+				<vendor>Cactus</vendor>
+				<name>Картридж черный Cactus CS-TK5270BK для Kyocera Ecosys P6230cdn/M6230cidn/M6630cidn 8000стр.</name>
+				<barcode>4610026046614</barcode>
+				<model>CS-TK5270BK</model>
+				<vendorCode>CS-TK5270BK</vendorCode>
+				<param name="Коротко о товаре">для Kyocera Ecosys P6230cdn/M6230cidn/M6630cidn 8000стр.</param>
+			</offer>
+			<offer id="644089" group_id="291822">
+				<url>https://www.xcom-shop.ru/cactus_cs-tk5270m_644089.html</url>
+				<price>1370</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2110000</categoryId>
+				<market_category>Картридж пурпурный</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/07/0HFhWxeqEj_750.jpg</picture>
+				<vendor>Cactus</vendor>
+				<name>Картридж пурпурный Cactus CS-TK5270M для Kyocera Ecosys P6230cdn/M6230cidn/M6630cid 6000стр.</name>
+				<barcode>4610026046638</barcode>
+				<model>CS-TK5270M</model>
+				<vendorCode>CS-TK5270M</vendorCode>
+				<param name="Коротко о товаре">для Kyocera Ecosys P6230cdn/M6230cidn/M6630cid 6000стр.</param>
+			</offer>
+			<offer id="817854" group_id="109886">
+				<url>https://www.xcom-shop.ru/lg_32un650_817854.html</url>
+				<price>41120</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2120000</categoryId>
+				<market_category>Монитор 31,5&quot;</market_category>
+				<picture>https://img.xcomdb.ru/pim/PNG/58/HcfiDpQKqq_750.jpg</picture>
+				<vendor>LG</vendor>
+				<name>Монитор 31,5&quot; LG 32UN650 3840x2160 IPS, nonGLARE, 350cd/m2, H178°/V178°, 1000:1, 1.07B, 5ms, 2xHDMI, DP, Height adj, Tilt, Speakers, white</name>
+				<description>Монитор LG UHD 4K обеспечивает исключительную чёткость, детализацию и производительность для ваших творческих задач и отдыха, о которой раньше вы могли только мечтать.</description>
+				<barcode>8806091070777</barcode>
+				<model>32UN650</model>
+				<vendorCode>32UN650-W</vendorCode>
+				<param name="Коротко о товаре">3840x2160 IPS, nonGLARE, 350cd/m2, H178°/V178°, 1000:1, 1.07B, 5ms, 2xHDMI, DP, Height adj, Tilt, Speakers, white</param>
+			</offer>
+			<offer id="24942" group_id="86159">
+				<url>https://www.xcom-shop.ru/gp_super_alkaline_24a_lr03_24942.html</url>
+				<price>224</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2130000</categoryId>
+				<market_category>Батарейка</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/8c/3QJrvGxZlu_750.jpg</picture>
+				<vendor>GP</vendor>
+				<name>Батарейка GP Super Alkaline 24A LR03 1.5V, 2шт, 1.15Ah, size ААА</name>
+				<description>Батарейки GP Super alkaline size ААА прекрасно подходят для увеличивающейся потребности в источниках питания для устройств повседневного использования. Длительный срок хранения (до 7 лет). Температура эксплуатации от -30°С до +50°С. Не содержат ртути и кадмия – безопасны для окружающей среды.</description>
+				<barcode>4891199000065</barcode>
+				<model>Super Alkaline 24A LR03</model>
+				<vendorCode>24A-BC2</vendorCode>
+				<param name="Коротко о товаре">1.5V, 2шт, 1.15Ah, size ААА</param>
+			</offer>
+			<offer id="659995" group_id="489317">
+				<url>https://www.xcom-shop.ru/defender_jack01-03_659995.html</url>
+				<price>55</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2200000</categoryId>
+				<market_category>Кабель акустический</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/ghrGW35K3E_750.jpg</picture>
+				<vendor>Defender</vendor>
+				<name>Кабель акустический Defender JACK01-03 87512 JACK M- JACK M, 1,2м, синий</name>
+				<description>Кабель для передачи аналогового аудиосигнала между аудио, аудио-видео и/или компьютерными устройствами или их компонентами.</description>
+				<barcode>4714033875127</barcode>
+				<model>JACK01-03</model>
+				<vendorCode>87512</vendorCode>
+				<param name="Коротко о товаре">JACK M- JACK M, 1,2м, синий</param>
+			</offer>
+			<offer id="725783" group_id="445820">
+				<url>https://www.xcom-shop.ru/sven_rx-30_725783.html</url>
+				<price>536</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2300000</categoryId>
+				<market_category>Мышь</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/AUvlciDEF3_750.jpg</picture>
+				<vendor>Sven</vendor>
+				<name>Мышь Sven RX-30 SV-018214 black, 1000dpi, USB, 2+1 кнопки</name>
+				<barcode>6438162018214</barcode>
+				<model>RX-30</model>
+				<vendorCode>SV-018214</vendorCode>
+				<param name="Коротко о товаре">black, 1000dpi, USB, 2+1 кнопки</param>
+			</offer>
+			<offer id="725808" group_id="611311">
+				<url>https://www.xcom-shop.ru/sven_gc-2040_725808.html</url>
+				<price>1613</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2400000</categoryId>
+				<market_category>Геймпад</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/vlEWEuN61G_750.jpg</picture>
+				<vendor>Sven</vendor>
+				<name>Геймпад Sven GC-2040 SV-015985 11 кнопок, 2 мини-джойстика, D-pad, Soft Touch, PC/PS3/Xinput</name>
+				<description>Одной из ключевых особенностей модели является ее совместимость сразу с тремя устройствами — персональными компьютерами, консолью PS3 и устройствами, работающими на операционной системе Android. Благодаря поддержке Xinput у владельцев ПК не возникнет проблем с совместимостью геймпада по отношению к определенным играм.</description>
+				<barcode>6438162015985</barcode>
+				<model>GC-2040</model>
+				<vendorCode>SV-015985</vendorCode>
+				<param name="Коротко о товаре">11 кнопок, 2 мини-джойстика, D-pad, Soft Touch, PC/PS3/Xinput</param>
+			</offer>
+			<offer id="281470" group_id="461029">
+				<url>https://www.xcom-shop.ru/smartbuy_sb4gbsdcl10-01_281470.html</url>
+				<price>246</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2500000</categoryId>
+				<market_category>Карта памяти MicroSDHC 4GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/4a/MzN4wy8tIe_750.jpg</picture>
+				<vendor>SmartBuy</vendor>
+				<name>Карта памяти MicroSDHC 4GB SmartBuy SB4GBSDCL10-01 class 10 (SD адаптер)</name>
+				<barcode>4690626002692</barcode>
+				<model>SB4GBSDCL10-01</model>
+				<vendorCode>SB4GBSDCL10-01</vendorCode>
+				<param name="Коротко о товаре">class 10 (SD адаптер)</param>
+			</offer>
+			<offer id="305845" group_id="461029">
+				<url>https://www.xcom-shop.ru/smartbuy_sb8gbsdcl4-01_305845.html</url>
+				<price>232</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2600000</categoryId>
+				<market_category>Карта памяти 8GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/nsnRyY1TVr_750.jpg</picture>
+				<vendor>SmartBuy</vendor>
+				<name>Карта памяти 8GB SmartBuy SB8GBSDCL4-01 MicroSDHC Сlass 4 (SD адаптер)</name>
+				<description>Карта памяти в комплекте с адаптером, позволяющим использовать ее в любых устройствах совместимых с SD card.</description>
+				<barcode>4607177557526</barcode>
+				<model>SB8GBSDCL4-01</model>
+				<vendorCode>SB8GBSDCL4-01</vendorCode>
+				<param name="Коротко о товаре">MicroSDHC Сlass 4 (SD адаптер)</param>
+			</offer>
+			<offer id="522800" group_id="280975">
+				<url>https://www.xcom-shop.ru/smartbuy_sb8gblara-k_522800.html</url>
+				<price>323</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2610000</categoryId>
+				<market_category>Накопитель USB 2.0 8GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/79/FVw3fEcIQe_750.jpg</picture>
+				<vendor>SmartBuy</vendor>
+				<name>Накопитель USB 2.0 8GB SmartBuy SB8GBLara-K Lara черный</name>
+				<barcode>4690626031852</barcode>
+				<model>SB8GBLara-K</model>
+				<vendorCode>SB8GBLara-K</vendorCode>
+				<param name="Коротко о товаре">Lara черный</param>
+			</offer>
+			<offer id="305767" group_id="280975">
+				<url>https://www.xcom-shop.ru/smartbuy_sb8gbvc-k_305767.html</url>
+				<price>274</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2611000</categoryId>
+				<market_category>Накопитель USB 2.0 8GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/PNG/f7/ToRHbDtYYi_750.jpg</picture>
+				<vendor>SmartBuy</vendor>
+				<name>Накопитель USB 2.0 8GB SmartBuy SB8GBVC-K V-Cut черный</name>
+				<description>Пластиковый корпус классической формы позволяет носить флешку в небольшом кармане, а съемный колпачок предотвратит загрязнение разъема и предохранит от попадания влаги. Предусмотренное отверстие дает возможность носить гаджет с ключами или на шнурке.</description>
+				<barcode>4690626000230</barcode>
+				<model>SB8GBVC-K</model>
+				<vendorCode>SB8GBVC-K</vendorCode>
+				<param name="Коротко о товаре">V-Cut черный</param>
+			</offer>
+			<offer id="729392" group_id="280975">
+				<url>https://www.xcom-shop.ru/smartbuy_sb8gbst-b_729392.html</url>
+				<price>274</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2611000</categoryId>
+				<market_category>Накопитель USB 2.0 8GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/e6/6S8JXPahWS_750.jpg</picture>
+				<vendor>SmartBuy</vendor>
+				<name>Накопитель USB 2.0 8GB SmartBuy SB8GBST-B Stream голубой</name>
+				<barcode>4690626057111</barcode>
+				<model>SB8GBST-B</model>
+				<vendorCode>SB8GBST-B</vendorCode>
+				<param name="Коротко о товаре">Stream голубой</param>
+			</offer>
+			<offer id="160887" group_id="128928">
+				<url>https://www.xcom-shop.ru/sven_sps-609_160887.html</url>
+				<price>2924</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2611000</categoryId>
+				<market_category>Компьютерная акустика 2.0</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/03/IST5c8fY1V_750.jpg</picture>
+				<vendor>Sven</vendor>
+				<name>Компьютерная акустика 2.0 Sven SPS-609 SV-0120609CH 10 Вт, 70–18000 Гц, вишня</name>
+				<description>Регуляторы уровня громкости и тембра ВЧ расположены на передней панели корпуса, также как и выключатель питания. Это очень удобно, так как все настройки находятся под рукой. На задней стенке расположены разъемы для подключения различных источников аудиосигнала: ПК, DVD/CD/MP3-плееров.</description>
+				<barcode>6438162001155</barcode>
+				<model>SPS-609</model>
+				<vendorCode>SV-0120609CH</vendorCode>
+				<param name="Коротко о товаре">10 Вт, 70–18000 Гц, вишня</param>
+			</offer>
+			<offer id="435868" group_id="13060">
+				<url>https://www.xcom-shop.ru/defender_quadro_power_435868.html</url>
+				<price>990</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2611100</categoryId>
+				<market_category>Разветвитель USB 2.0</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/49/K39QjtN3qJ_750.jpg</picture>
+				<vendor>Defender</vendor>
+				<name>Разветвитель USB 2.0 Defender QUADRO POWER 83503 4xUSB</name>
+				<barcode>4714033835039</barcode>
+				<model>QUADRO POWER</model>
+				<vendorCode>83503</vendorCode>
+				<param name="Коротко о товаре">4xUSB</param>
+			</offer>
+			<offer id="511919" group_id="306098">
+				<url>https://www.xcom-shop.ru/svetocopy_svetocopy_a480g146cie_511919.html</url>
+				<price>5660</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2611100</categoryId>
+				<market_category>Бумага</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/c7/UvM9rLd4y7_750.jpg</picture>
+				<vendor>SvetoCopy</vendor>
+				<name>Бумага SvetoCopy SVETOCOPY (А4,80г,146%CIE) 13500 форматная белая для офисной техники пачка 500л.</name>
+				<description>Офисная бумага SvetoCopy формата А4 является наиболее популярной и востребованной бумагой для делопроизводства в деятельности любой компании.      Её отличные технические характеристики позволяют качественно печатать документы на всех типах принтеров, а основными отличительными чертами Svetocopy является абсолютно ровная геометрия листа, отсутствие вредных хлоросодержащих элементов при производстве, неизменное качество, подтверждённое лабораториями американских разработчиков и доступная цена.    Яркий дизайн упаковки невозможно спутать с другими аналогами!</description>
+				<barcode>4605817132102</barcode>
+				<model>SVETOCOPY (А4,80г,146%CIE)</model>
+				<vendorCode>13500</vendorCode>
+				<param name="Коротко о товаре">форматная белая для офисной техники пачка 500л.</param>
+			</offer>
+			<offer id="779416" group_id="777285">
+				<url>https://www.xcom-shop.ru/intel_core_i5-10600kf_779416.html</url>
+				<price>11263</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2611200</categoryId>
+				<market_category>Процессор</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/4f/702UKITfCn_750.jpg</picture>
+				<vendor>Intel</vendor>
+				<name>Процессор Intel Core i5-10600KF CM8070104282136 Comet Lake 6C/12T 4.1-4.8GHz (LGA1200, GTI 8GT/s, L3 12MB, 14nm, 125W) tray</name>
+				<description>Intel Core i5-10600KF выпускается по нормам 14-нм техпроцесса. Тактовая частота процессора составляет 4.1 ГГц, которую можно увеличить до 4.8 ГГц при задействовании режима Turbo Boost. Объем кэш-памяти 3 уровня равен 12 МБ.</description>
+				<barcode>2770021718748</barcode>
+				<model>Core i5-10600KF</model>
+				<vendorCode>CM8070104282136</vendorCode>
+				<param name="Коротко о товаре">Comet Lake 6C/12T 4.1-4.8GHz (LGA1200, GTI 8GT/s, L3 12MB, 14nm, 125W) tray</param>
+			</offer>
+			<offer id="789260" group_id="556545">
+				<url>https://www.xcom-shop.ru/nvp_nv-cf280xce505x719h_789260.html</url>
+				<price>912</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2612000</categoryId>
+				<market_category>Картридж</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/d2/CWEkc00tVc_750.jpg</picture>
+				<vendor>NVP</vendor>
+				<name>Картридж NVP NV-CF280X/CE505X/719H для HP LaserJet Pro 400 MFP M425dn/400 M401dw/P2055/P2055d/P2055dn/Canon LBP-6300dn/ LBP-6650dn/ MF5840dn/ MF5880dn</name>
+				<barcode>4660016642593</barcode>
+				<model>NV-CF280X/CE505X/719H</model>
+				<vendorCode>NV-CF280X/CE505X/719H</vendorCode>
+				<param name="Коротко о товаре">для HP LaserJet Pro 400 MFP M425dn/400 M401dw/P2055/P2055d/P2055dn/Canon LBP-6300dn/ LBP-6650dn/ MF5840dn/ MF5880dn (6900k)</param>
+			</offer>
+			<offer id="418646" group_id="20033">
+				<url>https://www.xcom-shop.ru/lomond_2020345_418646.html</url>
+				<price>306</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2612000</categoryId>
+				<market_category>Бумага</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/0c/r01PfwtsMw_750.jpg</picture>
+				<vendor>Lomond</vendor>
+				<name>Бумага Lomond 2020345 Magnetic глянцевый A4, 2л</name>
+				<description>Бумага Magnetic глянцевая A4, 2л. 2020345</description>
+				<barcode>4607008187519,4640002064479</barcode>
+				<model>2020345</model>
+				<vendorCode>2020345</vendorCode>
+				<param name="Коротко о товаре">Magnetic глянцевый A4, 2л</param>
+			</offer>
+			<offer id="225353" group_id="470604">
+				<url>https://www.xcom-shop.ru/panasonic_kx-tg1612ruh_225353.html</url>
+				<price>6000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2612000</categoryId>
+				<market_category>Телефон DECT</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f3/A8OqaHBD27_750.jpg</picture>
+				<vendor>Panasonic</vendor>
+				<name>Телефон DECT Panasonic KX-TG1612RUH</name>
+				<barcode>5025232621880</barcode>
+				<model>KX-TG1612RUH</model>
+				<vendorCode>KX-TG1612RUH</vendorCode>
+			</offer>
+			<offer id="426814" group_id="255847">
+				<url>https://www.xcom-shop.ru/defender_ambm_426814.html</url>
+				<price>245</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2620000</categoryId>
+				<market_category>Кабель интерфейсный USB 2.0</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/d9/luLNwpXrAf_750.jpg</picture>
+				<vendor>Defender</vendor>
+				<name>Кабель интерфейсный USB 2.0 Defender AM/BM 87431 3 м, PRO, зол.конт, 2 фер.фильтра, Hub-&gt;Device</name>
+				<barcode>4719245874319</barcode>
+				<model>AM/BM</model>
+				<vendorCode>87431</vendorCode>
+				<param name="Коротко о товаре">3 м, PRO, зол.конт, 2 фер.фильтра, Hub-&gt;Device</param>
+			</offer>
+			<offer id="513231" group_id="71609">
+				<url>https://www.xcom-shop.ru/konica_minolta_tnp-22y_513231.html</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2620000</categoryId>
+				<market_category>Тонер-картридж</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/1c/rgJj72QAeG_750.jpg</picture>
+				<vendor>Konica Minolta</vendor>
+				<name>Тонер-картридж Konica Minolta TNP-22Y A0X5252 для bizhub C35P жёлтый 6000 стр</name>
+				<barcode>0039281053498</barcode>
+				<model>TNP-22Y</model>
+				<vendorCode>A0X5252</vendorCode>
+				<param name="Коротко о товаре">для bizhub C35P жёлтый 6000 стр</param>
+			</offer>
+			<offer id="99172" group_id="20044">
+				<url>https://www.xcom-shop.ru/xerox_006r01175_99172.html</url>
+				<price>43845</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2630000</categoryId>
+				<market_category>Тонер-картридж</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/8e/3r2Pqjv3xx_750.jpg</picture>
+				<vendor>Xerox</vendor>
+				<name>Тонер-картридж Xerox 006R01175 чёрный (26000 страниц) для WCP 7228/35/45/7328/35/45/46/C2128/2636/3545</name>
+				<description>div align="justify"    Оригинальные расходные материалы XEROX разработаны и протестированы специалистами Xerox специально для работы с оборудованием Xerox. Только в таком проверенном сочетании двух элементов возможно получение наилучших результатов. /div</description>
+				<barcode>0095205611755</barcode>
+				<model>006R01175</model>
+				<vendorCode>006R01175</vendorCode>
+				<param name="Коротко о товаре">чёрный (26000 страниц) для WCP 7228/35/45/7328/35/45/46/C2128/2636/3545</param>
+			</offer>
+			<offer id="656834" group_id="556645">
+				<url>https://www.xcom-shop.ru/nvp_nv-tk1150_656834.html</url>
+				<price>631</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2630000</categoryId>
+				<market_category>Картридж</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/97/sZKKpXGkzr_750.jpg</picture>
+				<vendor>NVP</vendor>
+				<name>Картридж NVP NV-TK1150 для Kyocera ECOSYS P2235d/P2235dn/P2235dw/M2135dn/M2635dn/M2635dw/M2735dw, 3000k</name>
+				<barcode>4660016632891</barcode>
+				<model>NV-TK1150</model>
+				<vendorCode>NV-TK1150</vendorCode>
+				<param name="Коротко о товаре">для Kyocera ECOSYS P2235d/P2235dn/P2235dw/M2135dn/M2635dn/M2635dw/M2735dw, 3000k</param>
+			</offer>
+			<offer id="596407" group_id="255847">
+				<url>https://www.xcom-shop.ru/atcom_at7206_596407.html</url>
+				<price>76</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2630000</categoryId>
+				<market_category>Удлинитель</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/5c/t3T0EarQo4_750.jpg</picture>
+				<vendor>Atcom</vendor>
+				<name>Удлинитель Atcom AT7206 USB 2.0 (Am &lt;=&gt; Af), 1.5 m</name>
+				<description>Удлинитель USB</description>
+				<barcode>6950713172065</barcode>
+				<model>AT7206</model>
+				<vendorCode>AT7206</vendorCode>
+				<param name="Коротко о товаре">USB 2.0 (Am &lt;=&gt; Af), 1.5 m</param>
+			</offer>
+			<offer id="644541" group_id="987660">
+				<url>https://www.xcom-shop.ru/supermicro_snk-p0068psc_644541.html</url>
+				<price>4590</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2630000</categoryId>
+				<market_category>Кулер</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/01/oohZpT8Xz8_750.jpg</picture>
+				<vendor>Supermicro</vendor>
+				<name>Кулер Supermicro SNK-P0068PSC Heatsink 2U+ X11 Front Purley Series Servers LGA 3647-0</name>
+				<description>Пассивный радиатор Supermicro SNK-P0068PSC совместим с сокетами Intel LGA3647, рассеиваемая мощность составляет 205 Вт.</description>
+				<barcode>0672042262540</barcode>
+				<model>SNK-P0068PSC</model>
+				<vendorCode>SNK-P0068PSC</vendorCode>
+				<param name="Коротко о товаре">Heatsink 2U+ X11 Front Purley Series Servers LGA 3647-0</param>
+			</offer>
+			<offer id="651956" group_id="81849">
+				<url>https://www.xcom-shop.ru/western_digital_wd20spzx_651956.html</url>
+				<price>8948</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2640000</categoryId>
+				<market_category>Жесткий диск 2TB SATA 6Gb/s</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/68/Rz0sLbApmY_750.jpg</picture>
+				<vendor>Western Digital</vendor>
+				<name>Жесткий диск 2TB SATA 6Gb/s Western Digital WD20SPZX 2,5&apos;&apos; WD Blue 5400rpm 128MB</name>
+				<description>Жесткий диск  WD емкостью 2 Tб предназначен для массового применения.. Диск выполнен в формате 2.5" с интерфейсом подключения SATA 6Gb/s и скоростью вращения 5400rpm.</description>
+				<barcode>0718037847405</barcode>
+				<model>WD20SPZX</model>
+				<vendorCode>WD20SPZX</vendorCode>
+				<param name="Коротко о товаре">2,5&apos;&apos; WD Blue 5400rpm 128MB</param>
+			</offer>
+			<offer id="652560" group_id="964247">
+				<url>https://www.xcom-shop.ru/systeme_electric_atn000163_652560.html</url>
+				<price>270</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2640000</categoryId>
+				<market_category>Переключатель</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/83/Or15iUOQXz_750.jpg</picture>
+				<vendor>Systeme Electric</vendor>
+				<name>Переключатель Systeme Electric ATN000163 AtlasDesign, 1-клавишный, с подсветкой, сх.6а, 10АХ, механизам, белый</name>
+				<description>В линейке AtlasDesign лицевые детали серии выполнены из европейского термопластика c добавлением ионов серебра. Эта технология обеспечивает надежную защиту от распространения бактерий и гарантирует безупречную эффективность на протяжении всего срока эксплуатации. Изделия AtlasDesign от Schneider Electric с успехом прошли тестовые испытания с более чем 50 видами микробов, по результатам которых получили сертификат европейской лаборатории Biomaster.</description>
+				<barcode>3606489583262</barcode>
+				<model>ATN000163</model>
+				<vendorCode>ATN000163</vendorCode>
+				<param name="Коротко о товаре">AtlasDesign, 1-клавишный, с подсветкой, сх.6а, 10АХ, механизам, белый</param>
+			</offer>
+			<offer id="549050" group_id="677603">
+				<url>https://www.xcom-shop.ru/spl_100008s_549050.html</url>
+				<price>293</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Суппорт</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/8d/xIlQ4fHnfg_750.jpg</picture>
+				<vendor>SPL</vendor>
+				<name>Суппорт SPL 100008S с рамкой на 2 поста (45х45) в профиль для кабель-канала 100х50</name>
+				<description>Суппорт с рамкой для кабельных каналов.</description>
+				<model>100008S</model>
+				<vendorCode>100008S</vendorCode>
+				<param name="Коротко о товаре">с рамкой на 2 поста (45х45) в профиль для кабель-канала 100х50</param>
+			</offer>
+			<offer id="689304" group_id="376456">
+				<url>https://www.xcom-shop.ru/satechi_water-resistant_laptop_carrying_case_689304.html</url>
+				<price>3100</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Сумка для ноутбука</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/00/T0tWvHkpTk_750.jpg</picture>
+				<vendor>Satechi</vendor>
+				<name>Сумка для ноутбука Satechi Water-Resistant Laptop Carrying Case ST-LTB15 для MacBook Pro 16&quot; и 13&quot;, нейлон, серый</name>
+				<barcode>0879961006938</barcode>
+				<model>Water-Resistant Laptop Carrying Case</model>
+				<vendorCode>ST-LTB15</vendorCode>
+				<param name="Коротко о товаре">до 15&quot;, нейлон, серый</param>
+			</offer>
+			<offer id="761907" group_id="81849">
+				<url>https://www.xcom-shop.ru/western_digital_wd10spsx_761907.html</url>
+				<price>8072</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Жесткий диск 1TB SATA 6Gb/s</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/f7/Q5pFIoDHau_750.jpg</picture>
+				<vendor>Western Digital</vendor>
+				<name>Жесткий диск 1TB SATA 6Gb/s Western Digital WD10SPSX black 7200rpm 64Mb 2.5&quot;</name>
+				<description>Жесткий диск  WD емкостью 1000 GB предназначен для массового применения. Диск выполнен в формате 2.5" с интерфейсом подключения SATA 6Gb/s и скоростью вращения 7200rpm.</description>
+				<barcode>0718037873350</barcode>
+				<model>WD10SPSX</model>
+				<vendorCode>WD10SPSX</vendorCode>
+				<param name="Коротко о товаре">black 7200rpm 64Mb 2.5&quot;</param>
+			</offer>
+			<offer id="593988" group_id="105586">
+				<url>https://www.xcom-shop.ru/broadcomlsi_9460-8i_sgl_05-50011-02_593988.html</url>
+				<price>93265</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Контроллер SAS</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/07/W2746OQba2_750.jpg</picture>
+				<vendor>Broadcom/LSI</vendor>
+				<name>Контроллер SAS Broadcom/LSI 9460-8I SGL (05-50011-02) 05-50011-02 MegaRAID (PCIe 3.1 x8 LP, SAS/SATA/NVMe, RAID 0,1,5,6,10,50,60, 8port (2*int SFF8643</name>
+				<description>Raid-контроллер</description>
+				<barcode>0830343003617</barcode>
+				<model>9460-8I SGL (05-50011-02)</model>
+				<vendorCode>05-50011-02</vendorCode>
+				<param name="Коротко о товаре">MegaRAID (PCIe 3.1 x8 LP, SAS/SATA/NVMe, RAID 0,1,5,6,10,50,60, 8port (2*int SFF8643), 2GB Cache)</param>
+			</offer>
+			<offer id="168569" group_id="117066">
+				<url>https://www.xcom-shop.ru/cablexpert_pc-186-vde_168569.html</url>
+				<price>256</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Кабель питания</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/fb/882Sb6eFXI_750.jpg</picture>
+				<vendor>Cablexpert</vendor>
+				<name>Кабель питания Cablexpert PC-186-VDE 1.8 м, Euro, VDE, черный, с заземлением, С13-Schuko, пакет 10А, 0.75</name>
+				<description>Кабель выполнен по немецкому стандарту DIN VDE и предназначен для подключения разъемом C13 системных блоков компьютеров, мониторов и прочей техники с розеткой типа C14.  Вилка сделана по евростандарту CEE 7/7 с заземлением, соответствует современным стандартам оборудования.</description>
+				<barcode>8716309010184</barcode>
+				<model>PC-186-VDE</model>
+				<vendorCode>PC-186-VDE</vendorCode>
+				<param name="Коротко о товаре">1.8 м, Euro, VDE, черный, с заземлением, С13-Schuko, пакет 10А, 0.75</param>
+			</offer>
+			<offer id="732709" group_id="200171">
+				<url>https://www.xcom-shop.ru/sven_kb-s330c_black_usb_732709.html</url>
+				<price>943</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Клавиатура и мышь</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/e3/zYirVTT9sx_750.jpg</picture>
+				<vendor>Sven</vendor>
+				<name>Клавиатура и мышь Sven KB-S330C Black USB SV-017309 104клавиши+12Fn, 3кнопки, 1000dpi</name>
+				<description>Набор из клавиатуры и мыши. Клавиатура имеет классическую полноразмерную раскладку и влагоустойчивую конструкцию. Мышь оборудована оптическим сенсором с разрешением 1000 dpi.</description>
+				<barcode>6438162017309</barcode>
+				<model>KB-S330C Black USB</model>
+				<vendorCode>SV-017309</vendorCode>
+				<param name="Коротко о товаре">104клавиши+12Fn, 3кнопки, 1000dpi</param>
+			</offer>
+			<offer id="644410" group_id="251264">
+				<url>https://www.xcom-shop.ru/aerocool_glo_644410.html</url>
+				<price>6399</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Корпус ATX</market_category>
+				<picture>https://img.xcomdb.ru/pim/PNG/19/X7ire42Qfs_750.jpg</picture>
+				<vendor>AeroCool</vendor>
+				<name>Корпус ATX AeroCool GLO 4713105950274 черный, без БП, USB3,0</name>
+				<barcode>4713105950274</barcode>
+				<model>GLO</model>
+				<vendorCode>4713105950274</vendorCode>
+				<param name="Коротко о товаре">черный, без БП, USB3,0</param>
+			</offer>
+			<offer id="601189" group_id="636074">
+				<url>https://www.xcom-shop.ru/tlk_tlk-shfr-300-bk_601189.html</url>
+				<price>2348</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Полка</market_category>
+				<picture>https://img.xcomdb.ru/pim/PNG/d1/HDIMMVz121_750.jpg</picture>
+				<vendor>TLK</vendor>
+				<name>Полка TLK TLK-SHFR-300-BK фронтальная , 19&quot;, 2U, глубиной 300мм, крепеж в комплекте, черная</name>
+				<description>Фронтальные полки предназначены для размещения нестандартного легкого оборудования, инструментов или документации в телекоммуникационных шкафах и стойках. Полки можно устанавливать в напольные, настенные шкафы и стойки, выполненные в 19” стандарте в соответствии с таблицами совместимости.</description>
+				<barcode>4680043112173</barcode>
+				<model>TLK-SHFR-300-BK</model>
+				<vendorCode>TLK-SHFR-300-BK</vendorCode>
+				<param name="Коротко о товаре">фронтальная , 19&quot;, 2U, глубиной 300мм, крепеж в комплекте, черная</param>
+			</offer>
+			<offer id="799564" group_id="154296">
+				<url>https://www.xcom-shop.ru/a4tech_fstyler_fg20_799564.html</url>
+				<price>702</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Мышь Wireless</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/cd/kJX4nBTHGa_750.jpg</picture>
+				<vendor>A4Tech</vendor>
+				<name>Мышь Wireless A4Tech Fstyler FG20 розовый 2000dpi USB для ноутбука (4but)</name>
+				<barcode>4711421952545</barcode>
+				<model>Fstyler FG20</model>
+				<vendorCode>FG20  PINK</vendorCode>
+				<param name="Коротко о товаре">розовый 2000dpi USB для ноутбука (4but)</param>
+			</offer>
+			<offer id="865545" group_id="399983">
+				<url>https://www.xcom-shop.ru/rexant_604-063_865545.html</url>
+				<price>674</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Лампа светодиодная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/ab/3aWqDv4GxP_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Лампа светодиодная Rexant 604-063 рефлектор GX53 10,5 Вт GX53 840 лм 2700 K теплый свет</name>
+				<barcode>4601004167605</barcode>
+				<model>604-063</model>
+				<vendorCode>604-063</vendorCode>
+				<param name="Коротко о товаре">рефлектор GX53 10,5 Вт GX53 840 лм 2700 K теплый свет</param>
+			</offer>
+			<offer id="865548" group_id="399983">
+				<url>https://www.xcom-shop.ru/rexant_604-068_865548.html</url>
+				<price>1039</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Лампа светодиодная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/ab/3aWqDv4GxP_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Лампа светодиодная Rexant 604-068 рефлектор GX53 15,5 Вт GX53 1240 лм 4000 K нейтральный свет</name>
+				<barcode>4601004167636</barcode>
+				<model>604-068</model>
+				<vendorCode>604-068</vendorCode>
+				<param name="Коротко о товаре">рефлектор GX53 15,5 Вт GX53 1240 лм 4000 K нейтральный свет</param>
+			</offer>
+			<offer id="865553" group_id="399983">
+				<url>https://www.xcom-shop.ru/rexant_604-029_865553.html</url>
+				<price>713</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Лампа светодиодная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/3c/ex8pB5tDia_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Лампа светодиодная Rexant 604-029 свеча (CN) 11,5 Вт E27 1093 лм 2700 K теплый свет</name>
+				<barcode>4601004167360</barcode>
+				<model>604-029</model>
+				<vendorCode>604-029</vendorCode>
+				<param name="Коротко о товаре">свеча (CN) 11,5 Вт E27 1093 лм 2700 K теплый свет</param>
+			</offer>
+			<offer id="865554" group_id="399983">
+				<url>https://www.xcom-shop.ru/rexant_604-030_865554.html</url>
+				<price>713</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Лампа светодиодная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/3c/ex8pB5tDia_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Лампа светодиодная Rexant 604-030 свеча (CN) 11,5 Вт E27 1093 лм 4000 K нейтральный свет</name>
+				<barcode>4601004167377</barcode>
+				<model>604-030</model>
+				<vendorCode>604-030</vendorCode>
+				<param name="Коротко о товаре">свеча (CN) 11,5 Вт E27 1093 лм 4000 K нейтральный свет</param>
+			</offer>
+			<offer id="865558" group_id="399983">
+				<url>https://www.xcom-shop.ru/rexant_604-020_865558.html</url>
+				<price>592</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Лампа светодиодная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/e9/EHyloFhRnv_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Лампа светодиодная Rexant 604-020 свеча (CN) 7,5 Вт E27 713 лм 2700 K теплый свет</name>
+				<barcode>4601004167278</barcode>
+				<model>604-020</model>
+				<vendorCode>604-020</vendorCode>
+				<param name="Коротко о товаре">свеча (CN) 7,5 Вт E27 713 лм 2700 K теплый свет</param>
+			</offer>
+			<offer id="865559" group_id="399983">
+				<url>https://www.xcom-shop.ru/rexant_604-021_865559.html</url>
+				<price>592</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Лампа светодиодная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/e9/EHyloFhRnv_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Лампа светодиодная Rexant 604-021 свеча (CN) 7,5 Вт E27 713 лм 4000 K нейтральный свет</name>
+				<barcode>4601004167285</barcode>
+				<model>604-021</model>
+				<vendorCode>604-021</vendorCode>
+				<param name="Коротко о товаре">свеча (CN) 7,5 Вт E27 713 лм 4000 K нейтральный свет</param>
+			</offer>
+			<offer id="865560" group_id="399983">
+				<url>https://www.xcom-shop.ru/rexant_604-022_865560.html</url>
+				<price>592</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Лампа светодиодная</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/e9/EHyloFhRnv_750.jpg</picture>
+				<vendor>Rexant</vendor>
+				<name>Лампа светодиодная Rexant 604-022 свеча (CN) 7,5 Вт E27 713 лм 6500 K нейтральный свет</name>
+				<barcode>4601004167292</barcode>
+				<model>604-022</model>
+				<vendorCode>604-022</vendorCode>
+				<param name="Коротко о товаре">свеча (CN) 7,5 Вт E27 713 лм 6500 K нейтральный свет</param>
+			</offer>
+			<offer id="1030578" group_id="878776">
+				<url>https://www.xcom-shop.ru/msi_pro_b760m-a_wifi_1030578.html</url>
+				<price>15199</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Материнская плата mATX</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/31/M8m1p5dAac_750.jpg</picture>
+				<vendor>MSI</vendor>
+				<name>Материнская плата mATX MSI PRO B760M-A WIFI (LGA1700, B760, 4*DDR5 (6800), 4*SATA 6G RAID, 2*M.2, 3*PCIE, 2.5Glan, WiFi, BT, 2*DP, 2*HDMI, 4*USB 3.2,</name>
+				<barcode>4711377059572</barcode>
+				<model>PRO B760M-A WIFI</model>
+				<vendorCode>PRO B760M-A WIFI</vendorCode>
+				<param name="Коротко о товаре">(LGA1700, B760, 4*DDR5 (6800), 4*SATA 6G RAID, 2*M.2, 3*PCIE, 2.5Glan, WiFi, BT, 2*DP, 2*HDMI, 4*USB 3.2, 2*USB 2.0)</param>
+			</offer>
+			<offer id="1054885" group_id="1054861">
+				<url>https://www.xcom-shop.ru/maxsun_challenger_a520m-k_1054885.html</url>
+				<price>5566</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Материнская плата mATX</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/94/IP4uCU5Ft4_750.jpg</picture>
+				<vendor>MAXSUN</vendor>
+				<name>Материнская плата mATX MAXSUN Challenger A520M-K (AM4, AMD A520, 2*DDR4 (3200), 3*SATA 6G RAID, M.2, 2*PCIE, Glan, VGA, HDMI, 2*USB 3.2, 4*USB 2.0) RT</name>
+				<barcode>6940709693797</barcode>
+				<model>Challenger A520M-K</model>
+				<vendorCode>6940709693797</vendorCode>
+				<param name="Коротко о товаре">(AM4, AMD A520, 2*DDR4 (3200), 3*SATA 6G RAID, M.2, 2*PCIE, Glan, VGA, HDMI, 2*USB 3.2, 4*USB 2.0) RTL</param>
+			</offer>
+			<offer id="1058204" group_id="256709">
+				<url>https://www.xcom-shop.ru/tp-link_tl-sg3428xpp-m2_1058204.html</url>
+				<price>185683</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Коммутатор управляемый</market_category>
+				<picture>https://img.xcomdb.ru/pim/PNG/e7/pIhCRgwkwb_750.jpg</picture>
+				<vendor>TP-LINK</vendor>
+				<name>Коммутатор управляемый TP-LINK TL-SG3428XPP-M2 JetStream, 24x2,5Гбит/с (8xPoE++, 16xPoE+), 4xSFP+</name>
+				<barcode>4897098689738</barcode>
+				<model>TL-SG3428XPP-M2</model>
+				<vendorCode>TL-SG3428XPP-M2</vendorCode>
+				<param name="Коротко о товаре">JetStream, 24x2,5Гбит/с (8xPoE++, 16xPoE+), 4xSFP+</param>
+			</offer>
+			<offer id="794614" group_id="516428">
+				<url>https://www.xcom-shop.ru/crucial_ct16g4sfra32a_794614.html</url>
+				<price>4406</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>1130000</categoryId>
+				<market_category>Модуль памяти SODIMM DDR4 16GB</market_category>
+				<picture>https://img.xcomdb.ru/pim/JPG/32/NsBq1LwoWj_750.jpg</picture>
+				<vendor>Crucial</vendor>
+				<name>Модуль памяти SODIMM DDR4 16GB Crucial CT16G4SFRA32A PC4-25600 3200MHz CL22 260pin 1.2V</name>
+				<description>Оперативная память произведена с учетом требований современных компьютерных систем, что гарантирует ее универсальность и надежность. Модуль относится к классу DDR4, обладает емкостью 16 ГБ и 260-контактным модулем SODIMM. Предельная частота работы устройства достигает 3200 МГц, а пропускная способность – 25600 Мб/с.</description>
+				<model>CT16G4SFRA32A</model>
+				<vendorCode>CT16G4SFRA32A</vendorCode>
+				<param name="Коротко о товаре">PC4-25600 3200MHz CL22 260pin 1.2V</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
